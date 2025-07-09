@@ -1,2 +1,10 @@
 # Diesel-Price-Prediction-using-RNN
-A deep learning-powered forecasting model leveraging Recurrent Neural Networks (RNN) to predict diesel fuel prices with temporal precision. This project demonstrates advanced time series modeling techniques for energy sector analytics and can be scaled for broader economic forecasting applications.
+This project leverages Recurrent Neural Networks (RNN) to forecast diesel fuel prices based on historical data trends. Designed as a time series analysis model, it encapsulates the power of deep learning in predicting volatile economic indicators with improved accuracy and adaptability.
+
+Key Features:
+
+📊 Historical fuel price data ingestion & preprocessing.
+
+🧠 RNN-based model architecture LSTM.
+
+📈 Performance evaluation using RMSE.
