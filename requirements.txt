@@ -4,3 +4,5 @@ numpy
 pandas
 keras 
 sklearn
+scikit-learn
+matplotlib
